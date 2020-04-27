@@ -1,0 +1,1843 @@
+#EXTM3U
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",A&E FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9344
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",A&E FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39320
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",A&E HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20892
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",A&E HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/8139
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",A&E SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20893
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",A&E SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4404
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AMC FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9343
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AMC HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20890
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AMC HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7691
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AMC SD*
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20891
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AMC SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7448
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13205
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Animal Planet FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39321
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24628
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6142
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20887
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4403
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ARTE 1 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11308
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ARTE 1 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10235
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",Arte 1 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39569
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AXN FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13212
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",AXN FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39322
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AXN HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20882
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AXN HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6140
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AXN SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20884
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",AXN SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4402
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Baby FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39424
+#EXTINF:-1 group-title="CANAIS INFANTIL",BABY TV HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39203
+#EXTINF:-1 group-title="CANAIS INFANTIL",BABY TV SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20871
+#EXTINF:-1 group-title="CANAIS INFANTIL",BABY TV SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4401
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND ARACAJU HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24752
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND BAHIA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30427
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND BRASILIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33274
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND CAMPINAS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33280
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25008
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND GOIANIA FHD  H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30438
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND GOIANIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25019
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20874
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6882
+#EXTINF:-1 group-title="CANAIS NOTICIA",BAND NEWS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11536
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Band News FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39323
+#EXTINF:-1 group-title="CANAIS NOTICIA",BAND NEWS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10296
+#EXTINF:-1 group-title="CANAIS NOTICIA",BAND NEWS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39527
+#EXTINF:-1 group-title="CANAIS NOTICIA",BAND NEWS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4399
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND RJ HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25542
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND RS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25018
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20875
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4400
+#EXTINF:-1 group-title="CANAIS ESPORTE",BAND SPORTS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11535
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Band Sports FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39324
+#EXTINF:-1 group-title="CANAIS ESPORTE",BAND SPORTS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20863
+#EXTINF:-1 group-title="CANAIS ESPORTE",BAND SPORTS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6138
+#EXTINF:-1 group-title="CANAIS ESPORTE",BAND SPORTS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20864
+#EXTINF:-1 group-title="CANAIS ESPORTE",BAND SPORTS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4398
+#EXTINF:-1 group-title="CANAIS ABERTOS",BAND TV TAROBA PARANA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24924
+#EXTINF:-1 group-title="BBB20",BBB20 CAM011
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34644
+#EXTINF:-1 group-title="BBB20",BBB20 CAM02
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34516
+#EXTINF:-1 group-title="BBB20",BBB20 CAM03
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34517
+#EXTINF:-1 group-title="BBB20",BBB20 CAM04
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34518
+#EXTINF:-1 group-title="BBB20",BBB20 CAM05
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34519
+#EXTINF:-1 group-title="BBB20",BBB20 CAM06
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34522
+#EXTINF:-1 group-title="BBB20",BBB20 CAM07
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34521
+#EXTINF:-1 group-title="BBB20",BBB20 CAM08
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34520
+#EXTINF:-1 group-title="BBB20",BBB20 CAM09
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34523
+#EXTINF:-1 group-title="BBB20",BBB20 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34524
+#EXTINF:-1 group-title="BBB20",BBB20 HD² MOSAICO
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34427
+#EXTINF:-1 group-title="BBB20",BBB20 MOSAICO
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34525
+#EXTINF:-1 group-title="BBB20",BBB20 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34428
+#EXTINF:-1 group-title="BBB20",BBB20 HD
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39250
+#EXTINF:-1 group-title="CANAIS MUSICA",BIS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11547
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",BIS FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39325
+#EXTINF:-1 group-title="CANAIS MUSICA",BIS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20866
+#EXTINF:-1 group-title="CANAIS MUSICA",BIS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6881
+#EXTINF:-1 group-title="CANAIS MUSICA",BIS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20868
+#EXTINF:-1 group-title="CANAIS MUSICA",BIS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6964
+#EXTINF:-1 group-title="CANAIS INFANTIL",BOOMERANG FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11534
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Boomerang FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39326
+#EXTINF:-1 group-title="CANAIS INFANTIL",BOOMERANG HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39199
+#EXTINF:-1 group-title="CANAIS INFANTIL",BOOMERANG SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20857
+#EXTINF:-1 group-title="CANAIS INFANTIL",BOOMERANG SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4396
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Canal Brasil FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39436
+#EXTINF:-1 group-title="CANAIS ABERTOS",CANAL BRASIL HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10293
+#EXTINF:-1 group-title="CANAIS ABERTOS",CANAL BRASIL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20838
+#EXTINF:-1 group-title="CANAIS ABERTOS",CANAL BRASIL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6963
+#EXTINF:-1 group-title="CANAIS ABERTOS",CANAL DO BOI SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11287
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CANAL SONY FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13202
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CANAL SONY HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20527
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CANAL SONY HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6961
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CANAL SONY SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20529
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CANAL SONY SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4395
+#EXTINF:-1 group-title="CANAIS RELIGIOSO",CANCAO NOVA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30662
+#EXTINF:-1 group-title="CANAIS RELIGIOSO",CANCAO NOVA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6173
+#EXTINF:-1 group-title="CANAIS INFANTIL",CARTOON NETWORK FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13210
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Cartoon Network FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39327
+#EXTINF:-1 group-title="CANAIS INFANTIL",CARTOON NETWORK HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20844
+#EXTINF:-1 group-title="CANAIS INFANTIL",CARTOON NETWORK HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7817
+#EXTINF:-1 group-title="CANAIS INFANTIL",CARTOON NETWORK SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20845
+#EXTINF:-1 group-title="CANAIS INFANTIL",CARTOON NETWORK SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4394
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Chef TV FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39420
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",Chef TV HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39225
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",Chef TV SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39570
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CINEMAX FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10993
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Cinemax FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39328
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CINEMAX HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20834
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CINEMAX HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7802
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CINEMAX SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24630
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",CINEMAX SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4393
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",CNN Espanhol FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39433
+#EXTINF:-1 group-title="CANAIS NOTICIA",CNN ESPANHOL HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39230
+#EXTINF:-1 group-title="CANAIS NOTICIA",CNN ESPANHOL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39528
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",CNN Internacional FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39439
+#EXTINF:-1 group-title="CANAIS NOTICIA",CNN INTERNACIONAL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39529
+#EXTINF:-1 group-title="CANAIS NOTICIA",CNN INTERNACIONAL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20506
+#EXTINF:-1 group-title="CANAIS ESPORTE",COMBATE FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/8152
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Combate FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39329
+#EXTINF:-1 group-title="CANAIS ESPORTE",COMBATE HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20831
+#EXTINF:-1 group-title="CANAIS ESPORTE",COMBATE HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6172
+#EXTINF:-1 group-title="CANAIS ESPORTE",COMBATE SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20832
+#EXTINF:-1 group-title="CANAIS ESPORTE",COMBATE SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4392
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24920
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Comedy Central FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39330
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20827
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10292
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20828
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4391
+#EXTINF:-1 group-title="COPA DO NORDESTE",COPA DO NORDESTE 2 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39276
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",CURTA SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20826
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Curta! FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39417
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",CURTA! HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39223
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",CURTA! SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10291
+#EXTINF:-1 group-title="DAZN",DAZN FHD  H264
+http://srv.tvprodigital.net:80/valdete.pires/valdete/31005
+#EXTINF:-1 group-title="DAZN",DAZN HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30422
+#EXTINF:-1 group-title="DAZN",DAZN HD¹ 2
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33638
+#EXTINF:-1 group-title="DAZN",DAZN HD¹ 4
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33640
+#EXTINF:-1 group-title="DAZN",DAZN SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39249
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11548
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Discovery Channel FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39331
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20824
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6132
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20825
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4390
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11533
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Discovery Home & Health FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39333
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20813
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6131
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4389
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HELTH SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20814
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Discovery ID FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39359
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISCOVERY KIDS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11532
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Discovery Kids FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39334
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISCOVERY KIDS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20816
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISCOVERY KIDS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7538
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISCOVERY KIDS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20818
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISCOVERY KIDS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4388
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY SCIENCE FHD  H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13206
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Discovery Science FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39335
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY SCIENCE HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20811
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY SCIENCE HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7861
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",Discovery Science SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39572
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY THEATER FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11530
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY THEATER HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20806
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY THEATER HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6130
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Discovery Theather FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39336
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",Discovery Theather SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39573
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11531
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Discovery Turbo FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39337
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20808
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6877
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20809
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4386
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Discovery World FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39338
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY WORLD HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20801
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DISCOVERY WORLD HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6128
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",Discovery World SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39574
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY CHANNEL FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11546
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Disney Channel FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39339
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY CHANNEL HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20797
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY CHANNEL HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7902
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY CHANNEL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20799
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY CHANNEL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4385
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Disney JR FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39340
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY JUNIOR FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13207
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY JUNIOR HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20794
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY JUNIOR HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10286
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY JUNIOR SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20795
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY JUNIOR SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4384
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Disney XD FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39430
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY XD HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20791
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY XD SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20792
+#EXTINF:-1 group-title="CANAIS INFANTIL",DISNEY XD SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4383
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",DW SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4425
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",E! FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39409
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",E! HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20788
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",E! HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10285
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",E! SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20789
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",E! SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4382
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN 2 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11521
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN 2 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39341
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN 2 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39200
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN 2 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6143
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN 2 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39575
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN 2 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7988
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN BRASIL FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11557
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN Brasil FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39342
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN BRASIL HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20783
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN BRASIL HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6124
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN BRASIL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20784
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN BRASIL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4380
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN EXTRA HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39206
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN EXTRA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24788
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN EXTRA SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39530
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11545
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39343
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20779
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6127
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20780
+#EXTINF:-1 group-title="CANAIS ESPORTE",ESPN SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4381
+#EXTINF:-1 group-title="EI PLUS",EI PLUS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39266
+#EXTINF:-1 group-title="EI PLUS",EI PLUS HD³
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39267
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FILM&ARTS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11180
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",FISH TV FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39425
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",FISH TV HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20773
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",FISH TV SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39531
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",FISH TV SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4377
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13196
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Food Network FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39344
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20756
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7534
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20757
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6959
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9141
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",FOX FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39345
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20759
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6122
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX LIFE FHD H264
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25009
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX LIFE HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20761
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX LIFE HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6876
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX LIFE SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20762
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX LIFE SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4374
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Fox News FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39438
+#EXTINF:-1 group-title="CANAIS NOTICIA",Fox News HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39231
+#EXTINF:-1 group-title="CANAIS NOTICIA",Fox News SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39579
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Fox Premium 1 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39435
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX PREMIUM 1 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20763
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX PREMIUM 1 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10279
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",Fox Premium 1 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39578
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX PREMIUM 2 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11529
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Fox Premium 2 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39437
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX PREMIUM 2 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20764
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX PREMIUM 2 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10278
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",Fox Premium 2 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39577
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20760
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FOX SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4375
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS 2 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/8151
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Fox Sports 2 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39347
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS 2 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20767
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS 2 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6117
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS 2 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20768
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS 2 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4372
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11556
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Fox Sports FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39348
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20771
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6118
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20772
+#EXTINF:-1 group-title="CANAIS ESPORTE",FOX SPORTS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4373
+#EXTINF:-1 group-title="CANAIS ABERTOS",FUTURA SD*
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20753
+#EXTINF:-1 group-title="CANAIS ABERTOS",FUTURA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10277
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FX FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13199
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",FX FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39349
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FX HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20775
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FX HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6116
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FX SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20777
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",FX SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4371
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO BAHIA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7539
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo BRASILIA FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34528
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO BRASILIA HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39217
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO BRASILIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10239
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO BRASILIA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7530
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo Centro America FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39400
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo Centro America HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39235
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo EPTV Campinas FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39401
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo EPTV Campinas HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39238
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39559
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7932
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRAO PRETO SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22765
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRAO PRETO SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9471
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO EPTV RIBERAO PRETO SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33271
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO EPTV SAO CARLOS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22766
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo EPTV Sul de Minas FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39444
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo EPTV Sul de Minas HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39248
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO GAZETA SUL ES  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33612
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO GAZETA SUL ES SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33611
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO GOIAS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/21985
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO INTER TV CABUGI SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39560
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo Inter TV Grande Minas FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39442
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo Inter TV Grande Minas HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39246
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO INTERNACIONAL
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24928
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO INTERTV CABUGI SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22763
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO MANAUS  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34431
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO MG FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34530
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO MINAS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/31114
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO MINAS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22761
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO MINAS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10276
+#EXTINF:-1 group-title="CANAIS NOTICIA",GLOBO NEWS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25010
+#EXTINF:-1 group-title="CANAIS NOTICIA",Globo News FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39350
+#EXTINF:-1 group-title="CANAIS NOTICIA",GLOBO NEWS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11043
+#EXTINF:-1 group-title="CANAIS NOTICIA",GLOBO NEWS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7442
+#EXTINF:-1 group-title="CANAIS NOTICIA",GLOBO NEWS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4432
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO NORDESTE FHD H264
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25011
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO NORDESTE HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39207
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO NORDESTE HD³
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39218
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO NORDESTE HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33266
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo Nordeste SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39532
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO NORDESTE SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7527
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO NSC FLORIANOPOLIS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/32806
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo NSC Florianopolis HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39241
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO NSCTV SANTA CATARINA  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33294
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO NSC TV Blumenau FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39445
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo NSC Florianopolis SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39581
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo Paraiba  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34527
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RBS FHD H264
+http://srv.tvprodigital.net:80/valdete.pires/valdete/31110
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RBS POA  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33287
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RBS PORTO ALEGRE SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39562
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RBS TV POA FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39351
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RBS TV POA SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39585
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RBS TV POA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33265
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO REDE AMAZONICA MANAUS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33264
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo RJ FHD H264
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34526
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo RJ FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39454
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RJ HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22756
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RJ HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6113
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RJ SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7547
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo RPC Paranaense FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39403
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo RPC Paranaense HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39239
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo RPC Paranaense SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39582
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO RPC TV CURITIBA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33258
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO SOROCABA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7684
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO SP FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39352
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO SP HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22755
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO SP HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7529
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo SP SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39580
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO SP SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4431
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV ANHANGUERA FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33286
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV ANHANGUERA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22004
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Anhanguera  SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39533
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Bahia FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39405
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Bahia HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39234
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV BAHIA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33261
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Belem FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39440
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Belem HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39233
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Belem SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39583
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Brasilia FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39452
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV CENTRO AMERICA CUIABA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22017
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV GAZETA ES FHD H264
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20476
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV GAZETA ES HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24959
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV GAZETA ES SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24958
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV LIBERAL BELEM SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39565
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV MIRANTE COCAIS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22744
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Mirante FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39406
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Mirante HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39242
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV MIRANTE MARANHAO HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33282
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Morena FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39407
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Morena HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39237
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV Morena Ponta Pora HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22734
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Morena SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39584
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV RIO SUL  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34430
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV SERGIPE HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24750
+#EXTINF:-1 group-title="CANAIS GLOBO",TV Sergipe FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39453
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV SANTA CRUZ SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10238
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV TEM BAURU SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22738
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV TEM BAURU SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9465
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV TEM SOROCABA SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22737
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV TRIBUNA SANTOS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22732
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV VANGUARDA SJ DOS CAMPOS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22735
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39567
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV VERDES MARES FORTALEZA SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39568
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Verdes Mares HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39236
+#EXTINF:-1 group-title="CANAIS GLOBO",Globo TV Verdes Mares SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39536
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO TV VERDES MARES SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/22733
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO VERDES MARES FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/32807
+#EXTINF:-1 group-title="CANAIS GLOBO",GLOBO VERDES MARES HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20623
+#EXTINF:-1 group-title="CANAIS GLOBO",GloboTV Anhanguera FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39404
+#EXTINF:-1 group-title="CANAIS GLOBO",GloboTV Anhanguera HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39240
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Gloob FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39421
+#EXTINF:-1 group-title="CANAIS INFANTIL",GLOOB HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20749
+#EXTINF:-1 group-title="CANAIS INFANTIL",GLOOB HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7526
+#EXTINF:-1 group-title="CANAIS INFANTIL",GLOOB SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20750
+#EXTINF:-1 group-title="CANAIS INFANTIL",GLOOB SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4369
+#EXTINF:-1 group-title="CANAIS INFANTIL",GLOOBINHO FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25013
+#EXTINF:-1 group-title="CANAIS INFANTIL",GLOOBINHO  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39201
+#EXTINF:-1 group-title="CANAIS INFANTIL",GLOOBINHO SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20701
+#EXTINF:-1 group-title="CANAIS INFANTIL",GLOOBINHO SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10270
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",GNT FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/31123
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",GNT FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39416
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",GNT HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20752
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",GNT HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6956
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",GNT SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20751
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",GNT SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4368
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",H2 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13187
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",H2 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39353
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",H2 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20698
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",H2 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6111
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",H2 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20700
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",H2 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4367
+#EXTINF:-1 group-title="CANAIS HBO",HBO 2 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11567
+#EXTINF:-1 group-title="CANAIS HBO",HBO 2 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39354
+#EXTINF:-1 group-title="CANAIS HBO",HBO 2 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20690
+#EXTINF:-1 group-title="CANAIS HBO",HBO 2 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6110
+#EXTINF:-1 group-title="CANAIS HBO",HBO 2 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20692
+#EXTINF:-1 group-title="CANAIS HBO",HBO 2 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4365
+#EXTINF:-1 group-title="CANAIS HBO",HBO FAMILY FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11568
+#EXTINF:-1 group-title="CANAIS HBO",HBO Family FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39355
+#EXTINF:-1 group-title="CANAIS HBO",HBO FAMILY HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20687
+#EXTINF:-1 group-title="CANAIS HBO",HBO FAMILY HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6109
+#EXTINF:-1 group-title="CANAIS HBO",HBO FAMILY SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20688
+#EXTINF:-1 group-title="CANAIS HBO",HBO FAMILY SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4364
+#EXTINF:-1 group-title="CANAIS HBO",HBO FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11566
+#EXTINF:-1 group-title="CANAIS HBO",HBO FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39356
+#EXTINF:-1 group-title="CANAIS HBO",HBO HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20694
+#EXTINF:-1 group-title="CANAIS HBO",HBO HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6108
+#EXTINF:-1 group-title="CANAIS HBO",HBO MUNDI HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20662
+#EXTINF:-1 group-title="CANAIS HBO",HBO MUNDI HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10266
+#EXTINF:-1 group-title="CANAIS HBO",HBO MUNDI SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20664
+#EXTINF:-1 group-title="CANAIS HBO",HBO MUNDI SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4358
+#EXTINF:-1 group-title="CANAIS HBO",HBO PLUS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13190
+#EXTINF:-1 group-title="CANAIS HBO",HBO Plus FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39357
+#EXTINF:-1 group-title="CANAIS HBO",HBO PLUS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20920
+#EXTINF:-1 group-title="CANAIS HBO",HBO PLUS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6106
+#EXTINF:-1 group-title="CANAIS HBO",HBO PLUS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20684
+#EXTINF:-1 group-title="CANAIS HBO",HBO PLUS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4363
+#EXTINF:-1 group-title="CANAIS HBO",HBO POP FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25015
+#EXTINF:-1 group-title="CANAIS HBO",HBO POP FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39363
+#EXTINF:-1 group-title="CANAIS HBO",HBO POP HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20659
+#EXTINF:-1 group-title="CANAIS HBO",HBO POP HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10265
+#EXTINF:-1 group-title="CANAIS HBO",HBO POP SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20660
+#EXTINF:-1 group-title="CANAIS HBO",HBO POP SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4355
+#EXTINF:-1 group-title="CANAIS HBO",HBO SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20696
+#EXTINF:-1 group-title="CANAIS HBO",HBO SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4366
+#EXTINF:-1 group-title="CANAIS HBO",HBO SIGNATURE FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11570
+#EXTINF:-1 group-title="CANAIS HBO",HBO Signature FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39358
+#EXTINF:-1 group-title="CANAIS HBO",HBO SIGNATURE HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20678
+#EXTINF:-1 group-title="CANAIS HBO",HBO SIGNATURE HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6105
+#EXTINF:-1 group-title="CANAIS HBO",HBO SIGNATURE SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20679
+#EXTINF:-1 group-title="CANAIS HBO",HBO SIGNATURE SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4361
+#EXTINF:-1 group-title="CANAIS HBO",HBO XTREME FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39362
+#EXTINF:-1 group-title="CANAIS HBO",HBO XTREME HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20657
+#EXTINF:-1 group-title="CANAIS HBO",HBO XTREME HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7850
+#EXTINF:-1 group-title="CANAIS HBO",HBO XTREME SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20658
+#EXTINF:-1 group-title="CANAIS HBO",HBO XTREME SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4357
+#EXTINF:-1 group-title="CANAIS HBO",HBO XTREMEFHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25014
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HGTV FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13208
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",HGTV FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39332
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HGTV HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20820
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HGTV HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7862
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HGTV SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39571
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HGTV SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10236
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HISTORY CHANNEL FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13211
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HISTORY CHANNEL FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39394
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HISTORY CHANNEL HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20468
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HISTORY CHANNEL HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6104
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HISTORY CHANNEL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20469
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",HISTORY CHANNEL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4314
+#EXTINF:-1 group-title="CANAIS 24HRS",Hércules 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34888
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",i SAT FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39429
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",I SAT  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39229
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",I SAT SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39537
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ID - INVESTIGACAO DISCOVERY FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9143
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ID - INVESTIGACAO DISCOVERY HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20672
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ID - INVESTIGACAO DISCOVERY HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6869
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ID - INVESTIGACAO DISCOVERY SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20673
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ID - INVESTIGACAO DISCOVERY SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4360
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ID - INVESTIGACAO DISCOVERY²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39216
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",ID Investigation Discovery FHD  H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30696
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",IMPD TV SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25915
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Inter TV dos Vales FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39449
+#EXTINF:-1 group-title="CANAIS GLOBO",InterTv Cabo Frio  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34531
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",LIFETIME FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11540
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Lifetime FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39360
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",LIFETIME HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20668
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",LIFETIME HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7525
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",LIFETIME SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20670
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",LIFETIME SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7876
+#EXTINF:-1 group-title="CANAIS GLOBO",Mais Globosat FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39411
+#EXTINF:-1 group-title="CANAIS GLOBO",MAIS GLOBOSAT HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20665
+#EXTINF:-1 group-title="CANAIS GLOBO",MAIS GLOBOSAT HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9262
+#EXTINF:-1 group-title="CANAIS GLOBO",MAIS GLOBOSAT SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20666
+#EXTINF:-1 group-title="CANAIS GLOBO",MAIS GLOBOSAT SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6953
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",MAX FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13189
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",MAX FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39361
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",MEGAPIX FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/8146
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Megapix FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39364
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",MEGAPIX HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20653
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",MEGAPIX HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6101
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",MEGAPIX SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20654
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",MEGAPIX SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4354
+#EXTINF:-1 group-title="CANAIS MUSICA",MTV FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11573
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",MTV FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39365
+#EXTINF:-1 group-title="CANAIS MUSICA",MTV HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20644
+#EXTINF:-1 group-title="CANAIS MUSICA",MTV HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7524
+#EXTINF:-1 group-title="CANAIS MUSICA",MTV SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20646
+#EXTINF:-1 group-title="CANAIS MUSICA",MTV SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4353
+#EXTINF:-1 group-title="CANAIS MUSICA",MULTISHOW FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13201
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Multishow FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39366
+#EXTINF:-1 group-title="CANAIS MUSICA",MULTISHOW HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20648
+#EXTINF:-1 group-title="CANAIS MUSICA",MULTISHOW HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6867
+#EXTINF:-1 group-title="CANAIS MUSICA",MULTISHOW SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20650
+#EXTINF:-1 group-title="CANAIS MUSICA",MULTISHOW SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4352
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Music Box Brasil FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39427
+#EXTINF:-1 group-title="CANAIS MUSICA",Music Box Brasil HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39228
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",MUSIC BOX BRASIL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20655
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",MUSIC BOX BRASIL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7848
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Natgeo FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39367
+#EXTINF:-1 group-title="CANAIS INFANTIL",NATGEO KIDS FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13198
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Natgeo Kids FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39368
+#EXTINF:-1 group-title="CANAIS INFANTIL",NATGEO KIDS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20632
+#EXTINF:-1 group-title="CANAIS INFANTIL",NATGEO KIDS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10261
+#EXTINF:-1 group-title="CANAIS INFANTIL",NATGEO KIDS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20642
+#EXTINF:-1 group-title="CANAIS INFANTIL",NATGEO KIDS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4350
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATGEO WILD FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11528
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Natgeo Wild FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39369
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATGEO WILD HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20640
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATGEO WILD HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6099
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATGEO WILD SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20641
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATGEO WILD SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4349
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATIONAL GEOGRAPHY FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13188
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATIONAL GEOGRAPHY HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20629
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATIONAL GEOGRAPHY HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6098
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATIONAL GEOGRAPHY SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20630
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",NATIONAL GEOGRAPHY SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4348
+#EXTINF:-1 group-title="CANAIS NOTICIA",NHK SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6949
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Nick FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39370
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICK JR FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11527
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Nick JR FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39371
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICK JR HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20631
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICK JR HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10260
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICK JR SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20637
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICK JR SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4346
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICKELODEON FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11526
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICKELODEON HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20635
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICKELODEON HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7537
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICKELODEON SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20636
+#EXTINF:-1 group-title="CANAIS INFANTIL",NICKELODEON SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4345
+#EXTINF:-1 group-title="CANAIS RELIGIOSO",NOVO TEMPO SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6948
+#EXTINF:-1 group-title="CANAIS MUSICA",OFF FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9152
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",OFF FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39410
+#EXTINF:-1 group-title="CANAIS MUSICA",OFF HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20622
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",OFF HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6947
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",OFF SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39539
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",OFF SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4344
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Paramount Channel FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39372
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",PARAMOUNT FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13185
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",PARAMOUNT HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20619
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",PARAMOUNT HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6945
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",PARAMOUNT SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20621
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",PARAMOUNT SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6946
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Play TV FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39414
+#EXTINF:-1 group-title="CANAIS MUSICA",PLAY TV SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39540
+#EXTINF:-1 group-title="CANAIS MUSICA",PLAY TV SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20617
+#EXTINF:-1 group-title="CANAIS MUSICA",PlayTV  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39222
+#EXTINF:-1 group-title="CANAIS ABERTOS",POLISHOP TV SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4342
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 2 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/8149
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere 2 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39373
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 2 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20615
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 2 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6093
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 2 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4341
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 3 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9230
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere 3 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39374
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 3 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20612
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 3 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6092
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere 3 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39541
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 3 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4340
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 4 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11552
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere 4 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39375
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 4 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20609
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 4 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6091
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 4 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20593
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 4 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4339
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 5 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9231
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere 5 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39376
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 5 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20606
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 5 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6090
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere 5 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39542
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 5 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4338
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 6 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11550
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere 6 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39377
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 6 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20603
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 6 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10259
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere 6 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39543
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 6 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4337
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 7 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11549
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere 7 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39378
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 7 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20601
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 7 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10258
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 7 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20590
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 7 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4336
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 8 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20589
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 9 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20588
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/9144
+#EXTINF:-1 group-title="CANAIS PREMIERE",Premiere Clubes FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39379
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE CLUBES HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20599
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE CLUBES HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6089
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE CLUBES SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20596
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE CLUBES SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4333
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Prime Box Brasil FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39419
+#EXTINF:-1 group-title="CANAIS MUSICA",Prime Box Brasil  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39224
+#EXTINF:-1 group-title="CANAIS MUSICA",PRIME BOX BRASIL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20587
+#EXTINF:-1 group-title="CANAIS MUSICA",PRIME BOX BRAZIL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4332
+#EXTINF:-1 group-title="RADIO",Radio Bahia
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6188
+#EXTINF:-1 group-title="RADIO",Radio Energia 97 FM 97.7 SP
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10936
+#EXTINF:-1 group-title="RADIO",Radio Globo SP
+http://srv.tvprodigital.net:80/valdete.pires/valdete/5828
+#EXTINF:-1 group-title="RADIO",Radio Jovem Pan
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6187
+#EXTINF:-1 group-title="RADIO",Radio Metropolitana
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10933
+#EXTINF:-1 group-title="RADIO",Radio Transamérica Pop 100.1 FM SP
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10937
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD BAHIA HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39262
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD BRASILIA HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39261
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD BRASILIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33275
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD CAMPINAS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33277
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13183
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Record  FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39380
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD GOIANIA FHD  H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30437
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20571
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7836
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD MARANHAO  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34429
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD MINAS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39263
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD MINAS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30435
+#EXTINF:-1 group-title="CANAIS NOTICIA",RECORD NEWS ES FHD H264
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20557
+#EXTINF:-1 group-title="CANAIS NOTICIA",RECORD NEWS ES HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10255
+#EXTINF:-1 group-title="CANAIS NOTICIA",RECORD NEWS ES SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6941
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Record News FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39441
+#EXTINF:-1 group-title="CANAIS NOTICIA",RECORD NEWS  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39208
+#EXTINF:-1 group-title="CANAIS NOTICIA",RECORD NEWS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39544
+#EXTINF:-1 group-title="CANAIS NOTICIA",RECORD NEWS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30707
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD PARANA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/18148
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD RIO HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25543
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD RJ HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39264
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD RS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39265
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD RS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25017
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD SANTA CATARINA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/18153
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD SAO JOSE DO RIO PRETO HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30432
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4423
+#EXTINF:-1 group-title="CANAIS RECORD",Record SP FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34529
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD SP HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/18168
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD TV ATALAIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24751
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD TV BELEM HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30426
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD TV GOIANIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30708
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD TV GOIAS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/18151
+#EXTINF:-1 group-title="CANAIS RECORD",RECORD TV LITORAL SANTOS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30423
+#EXTINF:-1 group-title="CANAIS ABERTOS",REDE BRASIL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4421
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Rede Genisis FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39447
+#EXTINF:-1 group-title="CANAIS ABERTOS",REDE GOSPEL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25975
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Rede Super FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39446
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Rede TV FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39428
+#EXTINF:-1 group-title="CANAIS ABERTOS",REDE TV HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20574
+#EXTINF:-1 group-title="CANAIS ABERTOS",REDE TV HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6940
+#EXTINF:-1 group-title="CANAIS ABERTOS",REDE TV SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20575
+#EXTINF:-1 group-title="CANAIS RELIGIOSO",REDE VIDA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6939
+#EXTINF:-1 group-title="CANAIS GLOBO",RPC PR HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20483
+#EXTINF:-1 group-title="RADIO",Rádio Jornal 91.3 FM
+http://srv.tvprodigital.net:80/valdete.pires/valdete/31665
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV APERIPER  ARACAJU HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24753
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",SBT FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39431
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20554
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT RJ HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25544
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT RS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25303
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20555
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4331
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT SERRA DOURADA FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33284
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT Serra Dourada  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33768
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Sony FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39381
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SPACE FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13197
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SPACE FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39382
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SPACE HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20532
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SPACE HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6085
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SPACE SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39545
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SPACE SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4328
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 2 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11539
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",SporTV 2 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39383
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 2 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20540
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 2 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6084
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 2 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4326
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 3 FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11538
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",SporTV 3 FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39384
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 3 HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20536
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 3 HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6083
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 3 SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20537
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 3 SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4325
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11563
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",SporTV FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39385
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6082
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20544
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20545
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4327
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13194
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Studio Universal FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39386
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20546
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7874
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20547
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4324
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SYFY FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13195
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",SYFY FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39387
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SYFY HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20550
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SYFY HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7795
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SYFY SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20551
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",SYFY SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4323
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",TBS FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39418
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TBS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20521
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TBS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7873
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TBS SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20522
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TBS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4322
+#EXTINF:-1 group-title="CANAIS TELECINE",TC ACTION FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39388
+#EXTINF:-1 group-title="CANAIS TELECINE",TC Cult FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39389
+#EXTINF:-1 group-title="CANAIS TELECINE",TC Fun FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39390
+#EXTINF:-1 group-title="CANAIS TELECINE",TC Pipoca FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39391
+#EXTINF:-1 group-title="CANAIS TELECINE",TC Premium FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39392
+#EXTINF:-1 group-title="CANAIS TELECINE",TC Touch FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39393
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TCM FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39413
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TCM  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39209
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TCM SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20496
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TCM SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4321
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE ACTION FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/8141
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE ACTION HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20517
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE ACTION HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6080
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE ACTION SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20518
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE ACTION SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4320
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE CULT FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/8143
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE CULT HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20513
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE CULT HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10247
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE CULT SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20514
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE CULT SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4319
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE FUN FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11561
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE FUN HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20509
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE FUN HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6079
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE FUN SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20510
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE FUN SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4318
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PIPOCA FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/8144
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PIPOCA HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20505
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PIPOCA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6078
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PIPOCA SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39546
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PIPOCA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4317
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PREMIUM FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/8140
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PREMIUM HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20501
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PREMIUM HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6077
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PREMIUM SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39547
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE PREMIUM SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4316
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE TOUCH FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/25016
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE TOUCH HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20497
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE TOUCH HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6076
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE TOUCH SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39548
+#EXTINF:-1 group-title="CANAIS TELECINE",TELECINE TOUCH SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4315
+#EXTINF:-1 group-title="CANAIS ABERTOS",TERRA VIVA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6936
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",TLC FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39415
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",TLC HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39210
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",TLC HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24786
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TLC SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39550
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TLC SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4313
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13181
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",TNT FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39395
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20493
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6074
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39552
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4312
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT SERIES FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13186
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT SERIES FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39396
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT SERIES HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20489
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT SERIES HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6073
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT SERIES SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39551
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",TNT SERIES SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4311
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Tooncast FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39423
+#EXTINF:-1 group-title="CANAIS INFANTIL",TOONCAST HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20485
+#EXTINF:-1 group-title="CANAIS INFANTIL",TOONCAST SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20486
+#EXTINF:-1 group-title="CANAIS INFANTIL",TOONCAST SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4310
+#EXTINF:-1 group-title="CANAIS MUSICA",TruTV FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39426
+#EXTINF:-1 group-title="CANAIS MUSICA",TRUTV  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39227
+#EXTINF:-1 group-title="CANAIS MUSICA",TruTV SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39576
+#EXTINF:-1 group-title="CANAIS MUSICA",TRUTV SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6935
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV ALTEROSA SBT MINAS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30434
+#EXTINF:-1 group-title="CANAIS GLOBO",TV ANHANGUERA GOIANIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30439
+#EXTINF:-1 group-title="CANAIS RELIGIOSO",TV APARECIDA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4438
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV ARATU SBT BAHIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30428
+#EXTINF:-1 group-title="CANAIS RECORD",TV CABRALIA RECORD BAHIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30429
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV CAMARA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10245
+#EXTINF:-1 group-title="CANAIS GLOBO",TV CLUBE  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34641
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV CULTURA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4412
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Tv Diario FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39443
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV DIARIO HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39247
+#EXTINF:-1 group-title="CANAIS GLOBO",TV DIARIO  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34642
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",TV Gazeta Alagoas FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39450
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",TV Gazeta FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39451
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV GAZETA SP HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30425
+#EXTINF:-1 group-title="CANAIS GLOBO",TV GLOBO RPC CURITIBA SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/7866
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV JUSTICA SD*
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20475
+#EXTINF:-1 group-title="CANAIS GLOBO",TV LIBERAL BELEM SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33256
+#EXTINF:-1 group-title="CANAIS GLOBO",TV Liberal  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34640
+#EXTINF:-1 group-title="CANAIS RECORD",TV PARANAIBA RECORD UBERLANDIA MG HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30424
+#EXTINF:-1 group-title="CANAIS INFANTIL",TV RA TIM BUM FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39422
+#EXTINF:-1 group-title="CANAIS INFANTIL",TV RA TIM BUM HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39212
+#EXTINF:-1 group-title="CANAIS INFANTIL",TV RA TIM BUM HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/24787
+#EXTINF:-1 group-title="CANAIS INFANTIL",TV RA TIM BUM  SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39553
+#EXTINF:-1 group-title="CANAIS INFANTIL",TV RA TIM BUM SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6933
+#EXTINF:-1 group-title="CANAIS GLOBO",TV SANTA CRUZ GLOBO BAHIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30431
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV SENADO SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10246
+#EXTINF:-1 group-title="CANAIS GLOBO",TV SUBAE GLOBO BAHIA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/30430
+#EXTINF:-1 group-title="CANAIS GLOBO",TV TEM BAURU SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33255
+#EXTINF:-1 group-title="CANAIS GLOBO",TV TEM SOROCABA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33254
+#EXTINF:-1 group-title="CANAIS GLOBO",TV TEM São José do Rio Preto SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4308
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV TRIBUNA ES FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33610
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV TRIBUNA ES  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33609
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV TRIBUNA ES SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33608
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV VITORIA ES FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33604
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV VITORIA ES  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33603
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV VITORIA ES SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/33602
+#EXTINF:-1 group-title="CANAIS NOTICIA",TV5  HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39213
+#EXTINF:-1 group-title="CANAIS ABERTOS",TVIDEONESWS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34496
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/13192
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Universal Channel FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39397
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20464
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/5987
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",Universal Channel SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39554
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20465
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",VH1 Mega Hits FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39398
+#EXTINF:-1 group-title="CANAIS MUSICA",VH1 MEGA HITS HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39221
+#EXTINF:-1 group-title="CANAIS MUSICA",VH1 MEGA HITS HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10361
+#EXTINF:-1 group-title="CANAIS MUSICA",VH1 MEGA HITS SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/10243
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Viva FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39412
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",VIVA HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20460
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",VIVA HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6848
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",VIVA SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20461
+#EXTINF:-1 group-title="CANAIS ENTRETENIMENTO",VIVA SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6928
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",WARNER CHANNEL FHD H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/11525
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Warner Channel FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39399
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",WARNER CHANNEL HD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20456
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",WARNER CHANNEL HD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/6072
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",WARNER CHANNEL SD²
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20457
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",WARNER CHANNEL SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/4307
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Wohoo FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39448
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES",WOOHOO SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20453
+#EXTINF:-1 group-title="CANAIS 24HRS",As Meninas Superpoderosas 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34865
+#EXTINF:-1 group-title="CANAIS 24HRS",BEN 10 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34866
+#EXTINF:-1 group-title="CANAIS 24HRS",Bita e os Animais 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34943
+#EXTINF:-1 group-title="CANAIS 24HRS",BOB ESPONJA 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34867
+#EXTINF:-1 group-title="CANAIS 24HRS",Breaking Bad 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34868
+#EXTINF:-1 group-title="CANAIS 24HRS",CAO CORAGEM 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34869
+#EXTINF:-1 group-title="CANAIS 24HRS",Caverna do Dragão 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34870
+#EXTINF:-1 group-title="CANAIS 24HRS",Chapolin Colorado 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34871
+#EXTINF:-1 group-title="CANAIS 24HRS",CHAVES 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34872
+#EXTINF:-1 group-title="CANAIS 24HRS",CHAVES DESENHO 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34873
+#EXTINF:-1 group-title="CANAIS 24HRS",Denis o Pimentinha 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34874
+#EXTINF:-1 group-title="CANAIS 24HRS",Desenhos Biblicos 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34875
+#EXTINF:-1 group-title="CANAIS 24HRS",Desenhos Disney 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34876
+#EXTINF:-1 group-title="CANAIS 24HRS",Digimon 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34877
+#EXTINF:-1 group-title="CANAIS 24HRS",Dois Homens e Meio 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34878
+#EXTINF:-1 group-title="CANAIS 24HRS",Doug 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34879
+#EXTINF:-1 group-title="CANAIS 24HRS",DRAGON BALL 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34880
+#EXTINF:-1 group-title="CANAIS 24HRS",DRAGON BALL SUPER 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34881
+#EXTINF:-1 group-title="CANAIS 24HRS",DRAGON BALL Z 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34882
+#EXTINF:-1 group-title="CANAIS 24HRS",Eu a Patroa e as Crianças 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34883
+#EXTINF:-1 group-title="CANAIS 24HRS",Formiga Atómica 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34884
+#EXTINF:-1 group-title="CANAIS 24HRS",Galinha Pintadinha 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34885
+#EXTINF:-1 group-title="CANAIS 24HRS",Guardiões da Galaxia 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34886
+#EXTINF:-1 group-title="CANAIS 24HRS",He-Man 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34887
+#EXTINF:-1 group-title="CANAIS 24HRS",Historias Disney 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34889
+#EXTINF:-1 group-title="CANAIS 24HRS",HOMEM ARANHA 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34890
+#EXTINF:-1 group-title="CANAIS 24HRS",Homem de Ferro 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34891
+#EXTINF:-1 group-title="CANAIS 24HRS",HOMEMS DE PRETO 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34892
+#EXTINF:-1 group-title="CANAIS 24HRS",Incrível Hulk 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34893
+#EXTINF:-1 group-title="CANAIS 24HRS",Jack-Chan 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34894
+#EXTINF:-1 group-title="CANAIS 24HRS",Jaspion 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34895
+#EXTINF:-1 group-title="CANAIS 24HRS",JIRAYA O Incrível Ninja 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34896
+#EXTINF:-1 group-title="CANAIS 24HRS",Kenan e Kel 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34897
+#EXTINF:-1 group-title="CANAIS 24HRS",Liga da Justica 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34944
+#EXTINF:-1 group-title="CANAIS 24HRS",Luluzinha 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34898
+#EXTINF:-1 group-title="CANAIS 24HRS",Medabots 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34899
+#EXTINF:-1 group-title="CANAIS 24HRS",MegaMan 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34900
+#EXTINF:-1 group-title="CANAIS 24HRS",Mortal Kombat 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34901
+#EXTINF:-1 group-title="CANAIS 24HRS",Mr.Ben 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34902
+#EXTINF:-1 group-title="CANAIS 24HRS",NARUTO 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34903
+#EXTINF:-1 group-title="CANAIS 24HRS",Naruto Shippuden DUB 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34904
+#EXTINF:-1 group-title="CANAIS 24HRS",O Fantástico Mundo de Bobby 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34905
+#EXTINF:-1 group-title="CANAIS 24HRS",O INSPETOR 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34906
+#EXTINF:-1 group-title="CANAIS 24HRS",O MASKARA 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34907
+#EXTINF:-1 group-title="CANAIS 24HRS",Os Anjinhos - Rugrats 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34908
+#EXTINF:-1 group-title="CANAIS 24HRS",OS CAVALEIROS DO ZODIACO 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34909
+#EXTINF:-1 group-title="CANAIS 24HRS",OS FLINTSTONES 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34910
+#EXTINF:-1 group-title="CANAIS 24HRS",OS SIMPSONS 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34911
+#EXTINF:-1 group-title="CANAIS 24HRS",Os Vingadores 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34912
+#EXTINF:-1 group-title="CANAIS 24HRS",Papa-Léguas 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34913
+#EXTINF:-1 group-title="CANAIS 24HRS",Peppa Pig 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34914
+#EXTINF:-1 group-title="CANAIS 24HRS",PERNALONGA 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34915
+#EXTINF:-1 group-title="CANAIS 24HRS",Phineas e Ferb 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34916
+#EXTINF:-1 group-title="CANAIS 24HRS",PICA PAU 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34917
+#EXTINF:-1 group-title="CANAIS 24HRS",Pink-e-Cerebro 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34918
+#EXTINF:-1 group-title="CANAIS 24HRS",POKEMON 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34919
+#EXTINF:-1 group-title="CANAIS 24HRS",Popeye O Marinheiro 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34920
+#EXTINF:-1 group-title="CANAIS 24HRS",Rambo 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34921
+#EXTINF:-1 group-title="CANAIS 24HRS",Scooby-Doo 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34922
+#EXTINF:-1 group-title="FHD² CANAIS EM MANUTENCAO",Shoptime FHD² H265
+http://srv.tvprodigital.net:80/valdete.pires/valdete/39455
+#EXTINF:-1 group-title="CANAIS 24HRS",Smallville 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34923
+#EXTINF:-1 group-title="CANAIS 24HRS",Sobrenatural 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34924
+#EXTINF:-1 group-title="CANAIS 24HRS",South Park 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34925
+#EXTINF:-1 group-title="CANAIS 24HRS",Steven Universe 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34926
+#EXTINF:-1 group-title="CANAIS 24HRS",Super Choque 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34947
+#EXTINF:-1 group-title="CANAIS 24HRS",Superman 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34927
+#EXTINF:-1 group-title="CANAIS 24HRS",TARTARUGAS NINJAS 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34928
+#EXTINF:-1 group-title="CANAIS 24HRS",Thundercats 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34929
+#EXTINF:-1 group-title="CANAIS 24HRS",TIMAO E PUMBA 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34930
+#EXTINF:-1 group-title="CANAIS 24HRS",TODO MUNDO ODEIA O CHRIS 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34931
+#EXTINF:-1 group-title="CANAIS 24HRS",Tom & Jerry 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34932
+#EXTINF:-1 group-title="CANAIS 24HRS",Tres Espias Demais 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34933
+#EXTINF:-1 group-title="CANAIS 24HRS",UM MALUCO NO PEDAÇO 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34934
+#EXTINF:-1 group-title="CANAIS 24HRS",Uma Família da Pesada 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34935
+#EXTINF:-1 group-title="CANAIS 24HRS",Ursinhos Carinhos 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34936
+#EXTINF:-1 group-title="CANAIS 24HRS",VAI QUE COLA 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34945
+#EXTINF:-1 group-title="CANAIS 24HRS",Vai Que Cola 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34946
+#EXTINF:-1 group-title="CANAIS 24HRS",X-MAN 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34937
+#EXTINF:-1 group-title="CANAIS 24HRS",Xena 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34938
+#EXTINF:-1 group-title="CANAIS 24HRS",YU-GI-OH 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34939
+#EXTINF:-1 group-title="CANAIS 24HRS",YU-YU-Hakusho 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34940
+#EXTINF:-1 group-title="CANAIS INFANTIL",ZOOMOO SD¹
+http://srv.tvprodigital.net:80/valdete.pires/valdete/20450
+#EXTINF:-1 group-title="CANAIS 24HRS",3 Palavrinhas 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34941
+#EXTINF:-1 group-title="CANAIS 24HRS",A Feiticeira 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34948
+#EXTINF:-1 group-title="CANAIS 24HRS",A Grande Familia 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34942
+#EXTINF:-1 group-title="CANAIS 24HRS",ALADIN 24HRS
+http://srv.tvprodigital.net:80/valdete.pires/valdete/34864
